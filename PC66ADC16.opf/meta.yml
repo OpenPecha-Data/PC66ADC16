@@ -1,0 +1,35 @@
+id: PC66ADC16
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG5761
+  instance_id: http://purl.bdrc.io/resource/IE1KG5761
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    zh-hans:
+    - 西藏王臣记
+    bo:
+    - བོད་ཀྱི་དེབ་ཐེར་དཔྱིད་ཀྱི་རྒྱལ་མོའི་གླུ་དབྱངས།
+    en-x-mixed:
+    - Gaṅs can yul gyi sa la spyod paʾi mtho ris kyi rgyal blon gtso bor brjod paʾi
+      deb ther rdzogs ldan gźon nuʾi dgaʾ ston dpyid kyi rgyal moʾi glu dbyaṅs źes
+      bya ba bźugs so /[Rgyal-dbaṅ Lṅa-pa Chen mos brtsams pa].
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P37
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    b91fa8f5210240ccb5bc7e8f3cf17a6a:
+      title: པོད ༡་བོད་ཀྱི་དེབ་ཐེར་དཔྱིད་ཀྱི་རྒྱལ་མོའི་གླུ་དབྱངས
+      volume_number: 1
+      base_file: UT1KG5761_I1KG5768_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF1E4FA6AAD006B7F
+      image_group: I1KG5768
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG5761
+  - http://purl.bdrc.io/resource/MW1KG5761
+  ocr_software: Namsel
+created_at: '2021-12-22T10:52:12.817342'
+last_modified_at: '2021-12-22T10:52:12.817349'
